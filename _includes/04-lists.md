@@ -1,0 +1,11 @@
+#### Animal Crossing
+- collect resources
+  - hit rocks
+  - collect wood
+  - bottled recipe
+  - who's crafting
+- visit shops
+  - Nook's
+  - Able's 
+- water flowers
+- search for special visitor
